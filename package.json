@@ -1,13 +1,16 @@
 {
-    "name": "dekboard-ohm",
-    "version": "1.0.0",
-    "description": "Display hardware status from Open Hardware Monitor on Deckboard button",
+    "name": "dekboard-lhm",
+    "version": "2.0.0",
+    "description": "Display hardware status from Libre Hardware Monitor on Deckboard button",
     "main": "index.js",
     "scripts": {
         "build": "deckboard-kit --build",
         "install": "deckboard-kit --install"
     },
-    "author": "Riva Farabi",
+    "contributors":[
+        {"name": "Riva Farabi"},
+        {"name": "Mathieu Savelli"}
+    ] ,
     "license": "MIT",
     "dependencies": {
         "babel-helpers": "^6.24.1",

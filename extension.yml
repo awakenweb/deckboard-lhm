@@ -1,7 +1,7 @@
-name: Open Hardware Monitor
-package: open-hardware-monitor
-version: 1.0.0
-description: Display hardware status from Open Hardware Monitor on Deckboard button
-author: Riva Farabi
+name: Libre Hardware Monitor
+package: Libre-hardware-monitor
+version: 2.0.0
+description: Display hardware status from Libre Hardware Monitor on Deckboard button
+author: Riva Farabi & Mathieu Savelli
 license: MIT
-repository: "https://github.com/rivafarabi/deckboard-ohm"
+repository: "https://github.com/awakenweb/deckboard-lhm"
